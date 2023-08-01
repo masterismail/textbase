@@ -1,6 +1,6 @@
 # Textbase
 
-✨ Textbase is a framework for building chatbots using NLP and ML. ✨
+✨ Textbase is a framework for building chatbots using NLP and ML. 
 
 Just implement the `on_message` function in `main.py` and Textbase will take care of the rest :)
 
